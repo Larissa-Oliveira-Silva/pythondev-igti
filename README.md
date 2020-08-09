@@ -28,7 +28,7 @@ fundamentais e avançados da linguagem Python e sua aplicação nas áreas da an
 
 - Introdução ao Python;
 - Tipos de dados em Python;
-- Bibliotecas e operações básicasem Pyhon.
+- Bibliotecas e operações básicasem Python.
 
 _**Desafio**: Aplicar os conhecimentos adquiridos em situações específicas de entrada e retorno de dados_
 
