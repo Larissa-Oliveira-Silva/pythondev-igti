@@ -24,7 +24,7 @@ fundamentais e avançados da linguagem Python e sua aplicação nas áreas da an
 <br>
 <br>
 
-## Módulo 1 - Fundamentos
+## [🐍 Módulo 1 - Fundamentos]
 
 - Introdução ao Python;
 - Tipos de dados em Python;
@@ -34,7 +34,7 @@ _**Desafio**: Aplicar os conhecimentos adquiridos em situações específicas de
 
 <br>
 
-## [Módulo 2 - Python para a Análise de Dados](https://github.com/mmsansao/pythondev-igti/tree/master/modulo-2_data-analysis)
+## [📊 Módulo 2 - Python para a Análise de Dados](https://github.com/mmsansao/pythondev-igti/tree/master/modulo-2_data-analysis)
 
 - Introdução à análise de dados.
 - Pandas e numpy para a análise
@@ -45,7 +45,7 @@ _**Desafio**: Tem como objetivo analisar os dados de compartilhamento de bicicle
 
 <br>
 
-## Módulo 3 - Python para Aplicações WEB
+## [🌐 Módulo 3 - Python para Aplicações WEB]
 
 - Introdução ao Django 3;
 - Introdução ao Flask;
@@ -55,7 +55,7 @@ _**Desafio**: Construir uma web app com parâmetros específicos para exibição
 
 <br>
 
-## Módulo 4 - Python Avançado
+## [Módulo 4 - Python Avançado]
 
 - Algoritmos e frameworks de machine learning utilizando o Python;
 - Introdução ao pygame;
@@ -66,7 +66,7 @@ _**Desafio**: _
 
 <br>
 
-## Módulo 5 - Fechamento
+## [Módulo 5 - Fechamento]
 
 - Desafio Final
 
