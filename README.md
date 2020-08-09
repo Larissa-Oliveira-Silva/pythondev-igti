@@ -62,7 +62,7 @@ _**Desafio**: Construir uma web app com parâmetros específicos para exibição
 - Concorrência e paralelismo com Python;
 - Programação reativa com python.
 
-_**Desafio**: _
+_**Desafio**: TBA_
 
 <br>
 
@@ -70,4 +70,4 @@ _**Desafio**: _
 
 - Desafio Final
 
-_**Desafio**: _
+_**Desafio**: TBA_
