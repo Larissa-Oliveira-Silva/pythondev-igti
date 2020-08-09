@@ -41,7 +41,7 @@ _**Desafio**: Aplicar os conhecimentos adquiridos em situações específicas de
 de dados.
 - Introdução ao scikit-learn.
 
-_**Desafio**: Realizar o processamento dos dados de um banco existente (aluguel de bikes)_
+_**Desafio**: Tem como objetivo analisar os dados de compartilhamento de bicicletas em uma cidade, coletados pela Universidade do Porto._
 
 <br>
 
