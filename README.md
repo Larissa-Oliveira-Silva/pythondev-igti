@@ -38,7 +38,7 @@ _**Desafio**: Aplicar os conhecimentos adquiridos em situações específicas de
 
 - Introdução à análise de dados.
 - Pandas e numpy para a análise
-de dados.
+  de dados.
 - Introdução ao scikit-learn.
 
 _**Desafio**: Tem como objetivo analisar os dados de compartilhamento de bicicletas em uma cidade, coletados pela Universidade do Porto._
@@ -55,14 +55,14 @@ _**Desafio**: Construir uma web app com parâmetros específicos para exibição
 
 <br>
 
-## [Módulo 4 - Python Avançado]
+## [Módulo 4 - Python Avançado](https://github.com/mmsansao/pythondev-igti/tree/master/modulo-4_python-avancado)
 
 - Algoritmos e frameworks de machine learning utilizando o Python;
 - Introdução ao pygame;
 - Concorrência e paralelismo com Python;
 - Programação reativa com python.
 
-_**Desafio**: TBA_
+_**Desafio**: 1. Criar um modelo de predição de risco de diabetes e avaliar o desempenho de diferentes algoritmos de classificação_
 
 <br>
 
