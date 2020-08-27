@@ -55,7 +55,7 @@ _**Desafio**: Construir uma web app com parâmetros específicos para exibição
 
 <br>
 
-## [Módulo 4 - Python Avançado](https://github.com/mmsansao/pythondev-igti/tree/master/modulo-4_python-avancado)
+## [🎯 Módulo 4 - Python Avançado](https://github.com/mmsansao/pythondev-igti/tree/master/modulo-4_python-avancado)
 
 - Algoritmos e frameworks de machine learning utilizando o Python;
 - Introdução ao pygame;
